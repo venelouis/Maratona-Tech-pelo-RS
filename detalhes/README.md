@@ -1,14 +1,12 @@
 <h3>Desafio escolhido:</h3>
-<p>
-<img src="desafio5.png" width="500px">
-</p>
+<p><img src="desafio5.png" width="500px"></p>
 <p>(Inspiração) Alguns exemplos de iniciativas já em uso no RS:</p>
 
 - ajuda.rs/
-- (x) app.ajuders.com.br/
+- app.ajuders.com.br/
 - doacoesrs.com.br/
 - marmitassolidarias.com/voluntarios
-- (x)precisamos.com.br
+- precisamos.com.br
 - resgaters.app.br/
 - sosguaiba.com.br/
 - sosmaps.com.br/
@@ -55,4 +53,7 @@ pc.rs.gov.br/desaparecidos
 solidarize.org/
 solpra.com.br/
 sosmaps.com.br
-Sosenchentes.rs.gov.br
+Sosenchentes.rs.gov.br etc...
+
+<h4>Uma análise minha superficial:</h4>
+<p>A maioria das soluções apresentadas aqui é sobre "achar pessoas, lugares (abrigos, pontos de doação, etc) e pets". </p>
