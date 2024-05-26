@@ -4,10 +4,10 @@
 <p>Qualquer pessoa poderá se cadastrar e postar desde que se sinta afetado, mesmo que minimamente.</p>
 <p>Este projeto será mantido através de doações e voluntários (eu mesmo) que irão atuar na moderação e manuteção da plataforma até onde conseguirem.</p>
 
-- Funcionalidades da plaforma:
-
+Funcionalidades da plaforma:
 <ul>
-<li> Todas as funcionalidades básicas de um fórum phpBB: https://www.phpbb.com/</li>
+<li>Todas as funcionalidades básicas de um fórum phpBB: https://www.phpbb.com/ (não conheço todas, mas tentei limitar algumas por motivos de "espaço", performance e segurança). </li>
+<li>A logo do fórum phpBB foi substituida nas pastas raizes pela imagem: "Rio Grande do Sul" com letras vermelhas em fundo branco.</li>
 </ul>
 
 
