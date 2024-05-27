@@ -11,6 +11,7 @@ Funcionalidades da plaforma:
 <li>A logo do fórum phpBB foi substituida nas pastas raizes pela imagem: "Rio Grande do Sul" com letras vermelhas em fundo branco.</li>
 </ul>
 <p>Versão final: <img src="v2.png" width="500px"></p>
+<p align="center">Acesse o site: https://maratonatechpelors.venelouis.de </p>
 
 
 
