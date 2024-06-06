@@ -4,9 +4,7 @@
 
 - ajuda.rs/
 - app.ajuders.com.br/
-- doacoesrs.com.br/
-- marmitassolidarias.com/voluntarios
-- precisamos.com.br ....
+- doacoesrs.com.br/ marmitassolidarias.com/voluntarios precisamos.com.br ....
 resgaters.app.br/
 sosguaiba.com.br/
 sosmaps.com.br/
@@ -54,6 +52,11 @@ solidarize.org/
 solpra.com.br/
 sosmaps.com.br
 Sosenchentes.rs.gov.br etc...
+
+<h4>Assista o vídeo do meu pitch clicando na imagem abaixo:</h4>
+<a href="https://www.youtube.com/watch?v=lAEfqAfsvOA">
+<img src="https://i.sstatic.net/Vp2cE.png" width="300px"></a>
+
 
 <h4>*Uma análise superficial minha:</h4>
 <p>A maioria das soluções apresentadas aqui é sobre "achar pessoas, lugares (abrigos, pontos de doação, etc) e pets". Então decidi apresentar uma solução um pouco diferente, algo como um "fórum" específico onde qualquer pessoa pode deixar sua opinião, pensamentos, reflexões, anúncios, etc... </p>
