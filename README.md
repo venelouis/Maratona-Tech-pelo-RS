@@ -4,7 +4,8 @@ Meu repositório do meu projeto para a: <strong>Maratona Tech pelo Rio Grande do
 e para não consumir recursos sem necessidade, mas vou  deixar o registro aqui neste repositório, que de fato este projeto foi realizado.
 <ul>
   <li><b><ins>Nome</ins></b>: F.I.R.S.T.</li>
-  <ul><li><h5>Acesse o projeto através deste link: https://maratonatechpelors.venelouis.de </h5></ul></li>
+  <ul><li>Acesse o projeto através deste link: https://maratonatechpelors.venelouis.de (descontinuado)</ul></li>
+  </br>
   <li><a href="./descrit">Descrição e funcionalidades (clique aqui).</a></li>
   <p><a href="./descrit"><img src="./descrit/v2.png" width="100px"></a></p>
   <li><a href="./detalhes"> + Detalhes deste projeto (clique aqui).</a></li>
